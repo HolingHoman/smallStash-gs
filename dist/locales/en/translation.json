@@ -1,0 +1,216 @@
+{
+	"maintenance": {
+		"title": "We are undergoing technical work",
+		"subTitle": "Please come back later"
+	},
+	"ban": {
+		"title": "The store is blocked"
+	},
+	"initializingError": {
+		"title": "Error during initialization",
+		"description": "Try refreshing the page"
+	},
+	"timeout": {
+		"error": "Try later"
+	},
+	"toasts": {
+		"error": "Error",
+		"success": "Successfully"
+	},
+	"cookie": {
+		"text": "We use cookies",
+		"button": "OK"
+	},
+	"сopyright": {
+		"text": "The site was created in the system"
+	},
+	"langSwitcher": {
+		"shortLangs": {
+			"ru": "ru",
+			"en": "en"
+		}
+	},
+	"header": {
+		"info": "Shop",
+		"wipeBlock": "Wipe-block",
+		"rules": "Rules",
+		"about": "About us",
+		"gambelTitle": "Our second project where you can pick up a golden skrap",
+		"playerBalanceModal": {
+			"topUpBalance": "Top up your balance",
+			"bonusInfo": "Bonus on replenishment",
+			"topUpBtn": "Top up",
+			"inputPlaceholder": "Amount",
+			"inputLabel": "Amount",
+			"close": "Close",
+			"errors": {
+				"amountIsNotNumber": "Amount is not a numeric value"
+			}
+		},
+		"wipeBlockModal": {
+			"title": "Wipe block",
+			"close": "Close"
+		},
+		"serverInfoModal": {
+			"title": "Info about server",
+			"close": "Close"
+		},
+		"rulesModal": {
+			"title": "Server rules",
+			"textTitle": "Unlocking options",
+			"unBanText": "A month after the ban, you can file an appeal, but only if the ban was not received for cheats or macros. You need to write an appeal in private messages of a separate group:",
+			"close": "Close"
+		},
+		"playerLogin": "Log in"
+	},
+	"widgets": {
+		"monitoring": {
+			"offline": "Offline",
+			"connectCopied": "The command to connect to the server has been copied to the clipboard. Use it in the game console (key \"F1\") if automatic connection doesn't work.",
+			"playing": "Playing:",
+			"joining": "Joining:",
+			"inQueue": "In Queue:"
+		},
+		"discount": {
+			"title": "Available discount {{discount}}%"
+		},
+		"errors": {
+			"getWidgetsError": "An error occurred while retrieving widgets. Please try again later or contact the administrator. (Error: {{error}} )",
+			"getMonitoringError": "An error occurred while receiving monitoring. Please try again later or contact the administrator. (Error: {{error}} )"
+		}
+	},
+	"shop": {
+		"needAuth": "Authentication required",
+		"title": "Shop",
+		"seo": {
+			"title": "{{shopName}} - Store",
+			"description": "The in-game store of project {{shopName}} for game {{gameName}}. Join us and play the best {{gameName}} game project!"
+		},
+		"filters": {
+			"searchPlaceholder": "Product name..."
+		},
+		"products": {
+			"notFound": "No data available",
+			"free": "Free",
+			"server": "Server",
+			"amount": "Amount",
+			"productItem": "Product",
+			"count": "Quantity",
+			"action": "Action",
+			"selectServer": "Select server",
+			"kitContains": "Kit contains",
+			"rouletteContains": "May contain",
+			"win": "You won \"{{name}} x{{count}}\"",
+			"actionTypes": {
+				"inCart": "Add to cart",
+				"instant": "Instant delivery"
+			},
+			"productAvailability": "Product available for purchase on all servers",
+			"giveText": "To claim your item, enter the command /store in the chat",
+			"get": "Get",
+			"close": "Close",
+			"errors": {
+				"getProductsError": "An error occurred while retrieving products. Please try again later or contact the administrator. (Error: {{error}})",
+				"purchaseError": "An error occurred while purchasing the product. Please try again later or contact the administrator. (Error: {{error}})",
+				"noServerError": "Please select a server before making a purchase",
+				"noActionError": "Please select an action before making a purchase"
+			}
+		}
+	},
+	"profile": {
+		"errors": {
+			"revealPlayerError": "An error occurred while identifying the player. Please try again later or contact the administrator. (Error: {{error}})",
+			"logoutPlayerError": "An error occurred while attempting to log out. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"profileNav": {
+		"profile": "Profile",
+		"cart": "Cart",
+		"history": "History",
+		"logout": "Logout"
+	},
+	"profileInfo": {
+		"blockTitleTimedDiscount": "Timed Discount",
+		"blockTitlePromocode": "Promocode Usage",
+		"blockTitleSelectDefaultServer": "Default Server Selection",
+		"infoTitleBalance": "Balance",
+		"infoTitlePersonalDiscount": "Personal Discount",
+		"infoTitlePromocodeDiscount": "Promocode Discount",
+		"inputPromocodePlaceholder": "Promocode Name",
+		"selectDefaultServerPlaceholder": "Select Default Server",
+		"usePromocodeBtn": "Apply",
+		"discountTime": "Your {{discount}}% discount with the promocode expires on {{end_date, datetime}}\nWhen purchasing items worth 100 RUB, you will pay {{pay_sum}} {{currency}}.",
+		"promocodeNameIsEmpty": "Promocode name cannot be empty",
+		"promocodeRewardTitle": "You have received",
+		"promocodeRewardDescription": "You have received",
+		"promocodeRewardKitContains": "Kit Contents:",
+		"closeBtn": "Close",
+		"giveText": "To collect your items, enter the command /store in the chat",
+		"seo": {
+			"title": "{{shopName}} - Info",
+			"description": "{{shopName}} - Info - ."
+		},
+		"errors": {
+			"findPromocodeProductError": "Failed to find product with the promocode. Please contact the administrator",
+			"usePromocodeError": "An error occurred while using the promocode. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"profileBasket": {
+		"mainTitle": "Cart",
+		"modalMainTitle": "Change Server",
+		"refundBtn": "Refund",
+		"changeServerBtn": "Change Server",
+		"giveNowBtn": "Give Now",
+		"tableTitleProduct": "Product",
+		"tableTitleServer": "Server",
+		"itemsNotFound": "No data found",
+		"serverSelectorAllServers": "All Servers",
+		"changeServerSelectorPlaceholder": "Select Server",
+		"inputSearchPlaceholder": "Product Name...",
+		"itemBlocked": "Item retrieval blocked until {{end_date, datetime}}",
+		"server": "Server:",
+		"closeBtn": "Close",
+		"changeBtn": "Change",
+		"changedOnSameServer": "Cannot change to the same server",
+		"changedServerIsNull": "Select a server",
+		"seo": {
+			"title": "{{shopName}} - Cart",
+			"description": "{{shopName}} - Cart."
+		},
+		"errors": {
+			"getPlayerBasketError": "An error occurred while retrieving the cart. Please try again later or contact the administrator. (Error: {{error}})",
+			"changeBasketItemServerError": "An error occurred while changing the server of the item. Please try again later or contact the administrator. (Error: {{error}})",
+			"makeBasketItemInstantError": "An error occurred while giving the item. Please try again later or contact the administrator. (Error: {{error}})",
+			"refundBasketItemError": "An error occurred while refunding the item. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"profileHistory": {
+		"mainTitle": "History",
+		"tableTitleData": "Date",
+		"tableTitleDetails": "Details",
+		"tableTitleSum": "Amount",
+		"itemsNotFound": "No data found",
+		"dateBoilerplate": "{{end_date, datetime}}",
+		"inputSearchPlaceholder": "History details...",
+		"seo": {
+			"title": "{{shopName}} - History",
+			"description": "{{shopName}} - History."
+		},
+		"errors": {
+			"getPlayerHistoryError": "An error occurred while retrieving history. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"shopInfo": {
+		"errors": {
+			"getInfoError": "An error occurred while retrieving store information. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"shopFooter": {
+		"text": "The information posted on this website is for informational purposes only and under no circumstances constitutes a public offer as defined by the provisions of Part 2 of Art. 437 of the Civil Code of the Russian Federation.",
+		"links": {
+			"agreement": "User Agreement",
+			"privacy": "Privacy Policy",
+			"mail": "help@gamestores.ru"
+		}
+	}
+}
