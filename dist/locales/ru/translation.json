@@ -13,10 +13,6 @@
 	"timeout": {
 		"error": "Попробуйте позже"
 	},
-	"toasts": {
-		"error": "Ошибка",
-		"success": "Успешно"
-	},
 	"cookie": {
 		"text": "Мы используем куки",
 		"button": "Ок"
@@ -81,7 +77,6 @@
 	},
 	"shop": {
 		"needAuth": "Необходима авторизация",
-		"title": "Магазин",
 		"seo": {
 			"title": "{{shopName}} - Магазин",
 			"description": "Магазин внутриигровых товаров проекта {{shopName}} по игре {{gameName}}. Присоединяйся к нам и играй на лучшем проекте игры {{gameName}}!"
@@ -90,30 +85,22 @@
 			"searchPlaceholder": "Название товара..."
 		},
 		"products": {
-			"notFound": "Данных нет",
+			"activateOn": "Активировать на",
+			"tablePrice": "Цена",
+			"tableName": "Название",
+			"tableTotalPrice": "Общая цена",
+			"tableBalance": "Баланс",
+			"buy": "Купить",
+			"contains": "Состав",
+			"possibleDrop": "Возможный дроп",
 			"free": "Бесплатно",
-			"server": "Сервер",
-			"amount": "Сумма",
-			"productItem": "Товар",
-			"count": "Количество",
-			"action": "Действие",
-			"selectServer": "Выберите сервер",
-			"kitContains": "Состав набора",
-			"rouletteContains": "Может выпасть",
 			"win": "Вам выпало \"{{name}} x{{count}}\"",
-			"actionTypes": {
-				"inCart": "Выдать в корзину",
-				"instant": "Выдать сразу"
-			},
-			"productAvailability": "Товар доступен к покупке на всех серверах",
-			"giveText": "Чтобы забрать товар, введите команду /store в чат",
-			"get": "Получить",
+			"leftInCart": "Оставить в корзине",
 			"close": "Закрыть",
+			"notFound": "Продуктов не найдено",
 			"errors": {
 				"getProductsError": "Произошла ошибка при получении продуктов. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-				"purchaseError": "Произошла ошибка при покупке товара. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )",
-				"noServerError": "Выберите сервер перед покупкой",
-				"noActionError": "Выберите действие перед покупкой"
+				"purchaseError": "Произошла ошибка при покупке товара. Попробуйте позже или сообщите администратору. (Ошибка: {{error}} )"
 			}
 		}
 	},
@@ -156,23 +143,16 @@
 		}
 	},
 	"profileBasket": {
-		"mainTitle": "Корзина",
-		"modalMainTitle": "Сменить сервер",
+		"modalMainTitle": "Выдать привилегию",
 		"refundBtn": "Вернуть",
-		"changeServerBtn": "Сменить сервер",
-		"giveNowBtn": "Выдать сейчас",
-		"tableTitleProduct": "Товар",
-		"tableTitleServer": "Сервер",
+		"giveProductBtn": "Выдать товар",
 		"itemsNotFound": "Нет данных",
-		"serverSelectorAllServers": "Все сервера",
-		"changeServerSelectorPlaceholder": "Выберите сервер",
 		"inputSearchPlaceholder": "Название товара...",
-		"itemBlocked": "Получение заблокировано до {{end_date, datetime}}",
 		"server": "Сервер:",
 		"closeBtn": "Закрыть",
-		"changeBtn": "Сменить",
+		"giveBtn": "Выдать",
 		"changedOnSameServer": "Нельзя сменить сервер на тот же",
-		"changedServerIsNull": "Выберите сервер",
+		"successfullyGived": "Вы успешно выдали привилегию",
 		"seo": {
 			"title": "{{shopName}} - Корзина",
 			"description": "{{shopName}} - Корзина."
@@ -185,7 +165,6 @@
 		}
 	},
 	"profileHistory": {
-		"mainTitle": "История",
 		"tableTitleData": "Дата",
 		"tableTitleDetails": "Детали",
 		"tableTitleSum": "Сумма",

@@ -13,10 +13,6 @@
 	"timeout": {
 		"error": "Try later"
 	},
-	"toasts": {
-		"error": "Error",
-		"success": "Successfully"
-	},
 	"cookie": {
 		"text": "We use cookies",
 		"button": "OK"
@@ -81,7 +77,6 @@
 	},
 	"shop": {
 		"needAuth": "Authentication required",
-		"title": "Shop",
 		"seo": {
 			"title": "{{shopName}} - Store",
 			"description": "The in-game store of project {{shopName}} for game {{gameName}}. Join us and play the best {{gameName}} game project!"
@@ -90,30 +85,22 @@
 			"searchPlaceholder": "Product name..."
 		},
 		"products": {
-			"notFound": "No data available",
+			"activateOn": "Activate on",
+			"tablePrice": "Price",
+			"tableName": "Name",
+			"tableTotalPrice": "Total price",
+			"tableBalance": "Balance",
+			"buy": "Buy",
+			"contains": "Contains",
+			"possibleDrop": "Possible drop",
 			"free": "Free",
-			"server": "Server",
-			"amount": "Amount",
-			"productItem": "Product",
-			"count": "Quantity",
-			"action": "Action",
-			"selectServer": "Select server",
-			"kitContains": "Kit contains",
-			"rouletteContains": "May contain",
 			"win": "You won \"{{name}} x{{count}}\"",
-			"actionTypes": {
-				"inCart": "Add to cart",
-				"instant": "Instant delivery"
-			},
-			"productAvailability": "Product available for purchase on all servers",
-			"giveText": "To claim your item, enter the command /store in the chat",
-			"get": "Get",
+			"leftInCart": "Left in cart",
 			"close": "Close",
+			"notFound": "Продуктов не найдено",
 			"errors": {
 				"getProductsError": "An error occurred while retrieving products. Please try again later or contact the administrator. (Error: {{error}})",
-				"purchaseError": "An error occurred while purchasing the product. Please try again later or contact the administrator. (Error: {{error}})",
-				"noServerError": "Please select a server before making a purchase",
-				"noActionError": "Please select an action before making a purchase"
+				"purchaseError": "An error occurred while purchasing the product. Please try again later or contact the administrator. (Error: {{error}})"
 			}
 		}
 	},
@@ -156,23 +143,16 @@
 		}
 	},
 	"profileBasket": {
-		"mainTitle": "Cart",
-		"modalMainTitle": "Change Server",
-		"refundBtn": "Refund",
-		"changeServerBtn": "Change Server",
-		"giveNowBtn": "Give Now",
-		"tableTitleProduct": "Product",
-		"tableTitleServer": "Server",
-		"itemsNotFound": "No data found",
-		"serverSelectorAllServers": "All Servers",
-		"changeServerSelectorPlaceholder": "Select Server",
-		"inputSearchPlaceholder": "Product Name...",
-		"itemBlocked": "Item retrieval blocked until {{end_date, datetime}}",
+		"modalMainTitle": "Grant privilege",
+		"refundBtn": "Return",
+		"giveProductBtn": "Give Product",
+		"itemsNotFound": "No data",
+		"inputSearchPlaceholder": "Product name...",
 		"server": "Server:",
 		"closeBtn": "Close",
-		"changeBtn": "Change",
-		"changedOnSameServer": "Cannot change to the same server",
-		"changedServerIsNull": "Select a server",
+		"giveBtn": "Give",
+		"changedOnSameServer": "You cannot change the server to the same one",
+		"successfullyGived": "You have successfully granted the privilege",
 		"seo": {
 			"title": "{{shopName}} - Cart",
 			"description": "{{shopName}} - Cart."
