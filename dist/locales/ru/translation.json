@@ -52,7 +52,7 @@
 		},
 		"serverInfoModal": {
 			"title": "Информация о сервере",
-			"close": "Close"
+			"close": "Закрыть"
 		},
 		"rulesModal": {
 			"title": "Правила сервера",
