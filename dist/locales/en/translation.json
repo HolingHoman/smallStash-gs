@@ -39,6 +39,8 @@
 			"inputPlaceholder": "Amount",
 			"inputLabel": "Amount",
 			"close": "Close",
+			"paid": "Paid",
+			"take": "You get",
 			"errors": {
 				"amountIsNotNumber": "Amount is not a numeric value"
 			}

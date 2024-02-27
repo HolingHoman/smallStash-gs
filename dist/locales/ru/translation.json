@@ -39,6 +39,8 @@
 			"inputPlaceholder": "Сумма",
 			"inputLabel": "Сумма",
 			"close": "Закрыть",
+			"paid": "Пополните",
+			"take": "Получите",
 			"errors": {
 				"amountIsNotNumber": "Сумма не является числовым значением"
 			}
