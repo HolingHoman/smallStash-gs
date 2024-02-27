@@ -1,0 +1,198 @@
+{
+	"maintenance": {
+		"title": "У магазині ведуться технічні роботи",
+		"subTitle": "Будь ласка, зайдіть повторно пізніше"
+	},
+	"initializingError": {
+		"title": "Помилка під час ініціалізації",
+		"description": "Спробуйте оновити сторінку"
+	},
+	"ban": {
+		"title": "Магазин заблоковано"
+	},
+	"timeout": {
+		"error": "Спробуйте пізніше"
+	},
+	"cookie": {
+		"text": "Ми використовуємо файли cookie",
+		"button": "ОК"
+	},
+	"сopyright": {
+		"text": "Сайт створено в системі"
+	},
+	"langSwitcher": {
+		"shortLangs": {
+			"ru": "ru",
+			"en": "en",
+			"uk": "uk"
+		}
+	},
+	"header": {
+		"info": "Інформація",
+		"wipeBlock": "Блокування",
+		"rules": "Правила",
+		"about": "Про Сервер",
+		"gambelTitle": "Наш другий проект, де можна забрати золотий скрап",
+		"playerBalanceModal": {
+			"topUpBalance": "Поповнення балансу",
+			"bonusInfo": "Бонус при поповненні",
+			"topUpBtn": "Поповнити",
+			"inputPlaceholder": "Сума",
+			"inputLabel": "Сума",
+			"close": "Закрити",
+			"paid": "Сплачено",
+			"take": "Отримайте",
+			"errors": {
+				"amountIsNotNumber": "Сума не є числовим значенням"
+			}
+		},
+		"wipeBlockModal": {
+			"title": "Блокування предметів",
+			"close": "Закрити"
+		},
+		"serverInfoModal": {
+			"title": "Інформація про сервер",
+			"close": "Закрити"
+		},
+		"rulesModal": {
+			"title": "Правила сервера",
+			"textTitle": "Можливості розблокування",
+			"unBanText": "Протягом місяця після блокування можна подавати апеляції, але тільки в разі, якщо бан був отриманий не через чити або макроси. Писати апеляцію потрібно в особистих повідомленнях окремої групи:",
+			"close": "Закрити"
+		},
+		"playerLogin": "Увійти"
+	},
+	"widgets": {
+		"monitoring": {
+			"offline": "Вимкнений",
+			"connectCopied": "Команда для підключення до сервера скопійована у буфер обміну. Використовуйте її в консолі гри (клавіша \"F1\"), якщо автоматичне підключення не працює.",
+			"playing": "Грають:",
+			"joining": "Приєднуються:",
+			"inQueue": "В черзі:"
+		},
+		"discount": {
+			"title": "Доступна знижка {{discount}}%"
+		},
+		"errors": {
+			"getWidgetsError": "Виникла помилка при отриманні віджетів. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"getMonitoringError": "Виникла помилка при отриманні мооніторингу. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"shop": {
+		"needAuth": "Необхідна авторизація",
+		"seo": {
+			"title": "{{shopName}} - Магазин",
+			"description": "Магазин внутрішніх ігоркових товарів проекту {{shopName}} за ігорою {{gameName}}. Приєднуйтесь до нас і грайте на найкращому проекті гри {{gameName}}!"
+		},
+		"filters": {
+			"searchPlaceholder": "Назва товару..."
+		},
+		"products": {
+			"activateOn": "Активувати на",
+			"tablePrice": "Ціна",
+			"tableName": "Назва",
+			"tableTotalPrice": "Загальна ціна",
+			"tableBalance": "Баланс",
+			"buy": "Купити",
+			"contains": "Склад",
+			"possibleDrop": "Можливий дроп",
+			"free": "Безкоштовно",
+			"win": "Ви вийшли \"{{name}} x{{count}}\"",
+			"leftInCart": "Залишити в кошику",
+			"close": "Закрити",
+			"notFound": "Товарів не знайдено",
+			"errors": {
+				"getProductsError": "Виникла помилка при отриманні продуктів. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+				"purchaseError": "Виникла помилка при покупці товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+			}
+		}
+	},
+	"profile": {
+		"errors": {
+			"revealPlayerError": "Виникла помилка при ідентифікації гравця. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"logoutPlayerError": "Виникла помилка під час спроби вийти з облікового запису. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"profileNav": {
+		"profile": "Профіль",
+		"cart": "Кошик",
+		"history": "Історія",
+		"logout": "Вихід"
+	},
+	"profileInfo": {
+		"blockTitleTimedDiscount": "Часова знижка",
+		"blockTitlePromocode": "Використання промокоду",
+		"blockTitleSelectDefaultServer": "Сервер за замовчуванням",
+		"infoTitleBalance": "Баланс",
+		"infoTitlePersonalDiscount": "Особлива знижка",
+		"infoTitlePromocodeDiscount": "Знижка за промокодом",
+		"inputPromocodePlaceholder": "Ім'я промокоду",
+		"selectDefaultServerPlaceholder": "Виберіть сервер за замовчуванням",
+		"usePromocodeBtn": "Застосувати",
+		"discountTime": "Ваша знижка за промокодом на {{discount}}% закінчується {{end_date, datetime}}\nПри покупці товару на суму 100 RUB, Ви оплачуєте {{pay_sum}} {{currency}}.",
+		"promocodeNameIsEmpty": "Ім'я промокоду не може бути порожнім",
+		"promocodeRewardTitle": "Ви отримали",
+		"promocodeRewardDescription": "Ви отримали",
+		"promocodeRewardKitContains": "Зміст набору:",
+		"closeBtn": "Закрити",
+		"giveText": "Щоб забрати товар, введіть команду /store в чат",
+		"seo": {
+			"title": "{{shopName}} - Профіль",
+			"description": "{{shopName}} - Профіль."
+		},
+		"errors": {
+			"findPromocodeProductError": "Не вдалося знайти товар за промокодом. Повідомте адміністратору",
+			"usePromocodeError": "Виникла помилка під час використання промокоду. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"profileBasket": {
+		"modalMainTitle": "Видача привілегії",
+		"refundBtn": "Повернути",
+		"giveProductBtn": "Видати товар",
+		"itemsNotFound": "Немає даних",
+		"inputSearchPlaceholder": "Назва товару...",
+		"server": "Сервер:",
+		"closeBtn": "Закрити",
+		"giveBtn": "Видати",
+		"changedOnSameServer": "Не можна змінити сервер на той самий",
+		"successfullyGived": "Ви успішно видали привілегію",
+		"seo": {
+			"title": "{{shopName}} - Кошик",
+			"description": "{{shopName}} - Кошик."
+		},
+		"errors": {
+			"getPlayerBasketError": "Виникла помилка при отриманні кошика. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"changeBasketItemServerError": "Виникла помилка при зміні сервера товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"makeBasketItemInstantError": "Виникла помилка при видачі товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )",
+			"refundBasketItemError": "Виникла помилка при поверненні товару. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"profileHistory": {
+		"tableTitleData": "Дата",
+		"tableTitleDetails": "Деталі",
+		"tableTitleSum": "Сума",
+		"itemsNotFound": "Немає даних",
+		"dateBoilerplate": "{{end_date, datetime}}",
+		"inputSearchPlaceholder": "Деталі історії...",
+		"seo": {
+			"title": "{{shopName}} - Історія",
+			"description": "{{shopName}} - Історія."
+		},
+		"errors": {
+			"getPlayerHistoryError": "Виникла помилка при отриманні історії. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"shopInfo": {
+		"errors": {
+			"getInfoError": "Виникла помилка при отриманні інформації про магазин. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
+	},
+	"shopFooter": {
+		"text": "Наявна на даному сайті інформація є інформаційним характером і не належить у будь-яких обставищах до оферти, визначеної статтею 2 частини 437 Закону України.",
+		"links": {
+			"agreement": "Угода користувача",
+			"privacy": "Політика конфіденційності",
+			"mail": "help@gamestores.ru"
+		}
+	}
+}
