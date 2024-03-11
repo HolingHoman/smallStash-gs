@@ -32,6 +32,7 @@
 		"wipeBlock": "Wipe-block",
 		"rules": "Rules",
 		"about": "About us",
+		"bonuses": "Bonuses",
 		"gambelTitle": "Our second project where you can pick up a golden skrap",
 		"playerBalanceModal": {
 			"topUpBalance": "Top up your balance",
@@ -58,6 +59,7 @@
 			"title": "Server rules",
 			"textTitle": "Unlocking options",
 			"unBanText": "A month after the ban, you can file an appeal, but only if the ban was not received for cheats or macros. You need to write an appeal in private messages of a separate group:",
+			"unBanSubText": "⚠ Please note that blocking is not discussed, so writing to the main group, discord/telegram chat or anywhere else is absolutely pointless; you will not receive an unblock outside the appeals group under any circumstances.\\n\\np.s. It is not possible to purchase unlocking.",
 			"close": "Close"
 		},
 		"playerLogin": "Log in"
