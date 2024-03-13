@@ -102,7 +102,8 @@
 			"win": "You won \"{{name}} x{{count}}\"",
 			"leftInCart": "Left in cart",
 			"close": "Close",
-			"notFound": "Продуктов не найдено",
+			"notFound": "No products found",
+			"activation": "When purchasing, the product will be waiting for you in the cart on the website until you choose where to activate it.",
 			"errors": {
 				"getProductsError": "An error occurred while retrieving products. Please try again later or contact the administrator. (Error: {{error}})",
 				"purchaseError": "An error occurred while purchasing the product. Please try again later or contact the administrator. (Error: {{error}})"
