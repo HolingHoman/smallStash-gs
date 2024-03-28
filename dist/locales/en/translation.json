@@ -43,8 +43,13 @@
 			"close": "Close",
 			"paid": "Paid",
 			"take": "You get",
+			"GS_TITLE": "Card replenishment",
+			"GS_DESCRIPTION": "Visa, Mastercard, Mir and other methods for the Russian Federation",
+			"TEBEX_TITLE": "Tebex (ukr/cis/eu)",
+			"TEBEX_DESCRIPTION": "Visa, Mastercard, PayPal",
 			"errors": {
-				"amountIsNotNumber": "Amount is not a numeric value"
+				"amountIsNotNumber": "Amount is not a numeric value",
+				"tebexFetchPaymentLinkError": "Error when trying to get a Tebex payment link"
 			}
 		},
 		"wipeBlockModal": {
@@ -168,6 +173,11 @@
 			"changeBasketItemServerError": "An error occurred while changing the server of the item. Please try again later or contact the administrator. (Error: {{error}})",
 			"makeBasketItemInstantError": "An error occurred while giving the item. Please try again later or contact the administrator. (Error: {{error}})",
 			"refundBasketItemError": "An error occurred while refunding the item. Please try again later or contact the administrator. (Error: {{error}})"
+		}
+	},
+	"rates": {
+		"errors": {
+			"getRatesError": "An error occurred while getting the exchange rate. Please try again later or inform the administrator. (Error: {{error}} )"
 		}
 	},
 	"profileHistory": {

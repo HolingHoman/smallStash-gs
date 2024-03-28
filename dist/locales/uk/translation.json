@@ -43,8 +43,13 @@
 			"close": "Закрити",
 			"paid": "Сплачено",
 			"take": "Отримайте",
+			"GS_TITLE": "Поповнення карткою",
+			"GS_DESCRIPTION": "Visa, Mastercard, Світ та інші методи для РФ",
+			"TEBEX_TITLE": "Tebex (укр/снг/eu)",
+			"TEBEX_DESCRIPTION": "Visa, Mastercard, PayPal",
 			"errors": {
-				"amountIsNotNumber": "Сума не є числовим значенням"
+				"amountIsNotNumber": "Сума не є числовим значенням",
+				"tebexFetchPaymentLinkError": "Помилка під час спроби отримати платіжне посилання Tebex",
 			}
 		},
 		"wipeBlockModal": {
@@ -63,6 +68,11 @@
 			"close": "Закрити"
 		},
 		"playerLogin": "Увійти"
+	},
+	"rates": {
+		"errors": {
+			"getRatesError": "Відбулася помилка при отриманні курсу валют. Спробуйте пізніше або повідомте адміністратору. (Помилка: {{error}} )"
+		}
 	},
 	"widgets": {
 		"monitoring": {
