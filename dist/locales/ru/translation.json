@@ -43,10 +43,6 @@
 			"close": "Закрыть",
 			"paid": "Пополните",
 			"take": "Получите",
-			"GS_TITLE": "Пополнение картой",
-			"GS_DESCRIPTION": "Visa, Mastercard, Мир и другие методы для РФ",
-			"TEBEX_TITLE": "Tebex (укр/снг/eu)",
-			"TEBEX_DESCRIPTION": "Visa, Mastercard, PayPal",
 			"errors": {
 				"amountIsNotNumber": "Сумма не является числовым значением",
 				"tebexFetchPaymentLinkError": "Ошибка при попытке получить ссылку на платёж Tebex"

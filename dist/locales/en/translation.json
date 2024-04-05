@@ -43,10 +43,6 @@
 			"close": "Close",
 			"paid": "Paid",
 			"take": "You get",
-			"GS_TITLE": "Card replenishment",
-			"GS_DESCRIPTION": "Visa, Mastercard, Mir and other methods for the Russian Federation",
-			"TEBEX_TITLE": "Tebex (ukr/cis/eu)",
-			"TEBEX_DESCRIPTION": "Visa, Mastercard, PayPal",
 			"errors": {
 				"amountIsNotNumber": "Amount is not a numeric value",
 				"tebexFetchPaymentLinkError": "Error when trying to get a Tebex payment link"
