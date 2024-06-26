@@ -71,7 +71,9 @@
 			"connectCopied": "The command to connect to the server has been copied to the clipboard. Use it in the game console (key \"F1\") if automatic connection doesn't work.",
 			"playing": "Playing:",
 			"joining": "Joining:",
-			"inQueue": "In Queue:"
+			"inQueue": "In Queue:",
+			"classicTitle": "SEMI-CLASSIC",
+			"hardcoreTitle": "HARDCORE"
 		},
 		"discount": {
 			"title": "Available discount {{discount}}%"
@@ -82,6 +84,7 @@
 		}
 	},
 	"shop": {
+		"hardcoreDescription": "To pick up goods on servers, use the /store command",
 		"needAuth": "Authentication required",
 		"seo": {
 			"title": "{{shopName}} - Store",

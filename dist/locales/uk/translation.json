@@ -45,7 +45,7 @@
 			"take": "Отримайте",
 			"errors": {
 				"amountIsNotNumber": "Сума не є числовим значенням",
-				"tebexFetchPaymentLinkError": "Помилка під час спроби отримати платіжне посилання Tebex",
+				"tebexFetchPaymentLinkError": "Помилка під час спроби отримати платіжне посилання Tebex"
 			}
 		},
 		"wipeBlockModal": {
@@ -76,7 +76,9 @@
 			"connectCopied": "Команда для підключення до сервера скопійована у буфер обміну. Використовуйте її в консолі гри (клавіша \"F1\"), якщо автоматичне підключення не працює.",
 			"playing": "Грають:",
 			"joining": "Приєднуються:",
-			"inQueue": "В черзі:"
+			"inQueue": "В черзі:",
+			"classicTitle": "SEMI-CLASSIC",
+			"hardcoreTitle": "HARDCORE"
 		},
 		"discount": {
 			"title": "Доступна знижка {{discount}}%"
@@ -87,6 +89,7 @@
 		}
 	},
 	"shop": {
+		"hardcoreDescription": "Щоб забрати товари на серверах, використовуйте команду",
 		"needAuth": "Необхідна авторизація",
 		"seo": {
 			"title": "{{shopName}} - Магазин",
