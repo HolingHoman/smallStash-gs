@@ -84,7 +84,7 @@
 		}
 	},
 	"shop": {
-		"hardcoreDescription": "To pick up goods on servers, use the /store command",
+		"hardcoreDescription": "To pick up goods on servers, use the command",
 		"needAuth": "Authentication required",
 		"seo": {
 			"title": "{{shopName}} - Store",
