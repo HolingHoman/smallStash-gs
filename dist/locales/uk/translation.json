@@ -77,8 +77,8 @@
 			"playing": "Грають:",
 			"joining": "Приєднуються:",
 			"inQueue": "В черзі:",
-			"classicTitle": "SEMI-CLASSIC",
-			"hardcoreTitle": "HARDCORE"
+			"wipeOnTuesday": "Вайп по вівторок",
+			"wipeOnSaturday": "Вайп по суботі"
 		},
 		"discount": {
 			"title": "Доступна знижка {{discount}}%"

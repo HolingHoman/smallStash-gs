@@ -72,8 +72,8 @@
 			"playing": "Playing:",
 			"joining": "Joining:",
 			"inQueue": "In Queue:",
-			"classicTitle": "SEMI-CLASSIC",
-			"hardcoreTitle": "HARDCORE"
+			"wipeOnTuesday": "Wipe on Tuesdays",
+			"wipeOnSaturday": "Wipe on Saturdays"
 		},
 		"discount": {
 			"title": "Available discount {{discount}}%"
